@@ -14,8 +14,6 @@ It includes the following columns:
 - Vote Average
 - Genre
 
-(*You can replace this with your actual dataset link if public*)
-
 ## Technologies Used
 
 - Python 3
